@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1607499505 source:f:\new folder (2)\igraphics-master\packed_mann.cpp
+	"iGraphics.h"
+
+1563940332 f:\new folder (2)\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 f:\new folder (2)\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 f:\new folder (2)\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608404310 source:f:\packed_mann\packed_mann.cpp
+	"iGraphics.h"
+	<MMSystem.h>
+
+1563940332 f:\packed_mann\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 f:\packed_mann\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 f:\packed_mann\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
